@@ -2713,7 +2713,7 @@ msgstr " のメール通知は退会されました。このコメントに新�
 #, fuzzy
 #~| msgid "发送"
 #~ msgid "发送中"
-#~ msgstr "送信
+#~ msgstr "送信"
 
 #, fuzzy
 #~| msgid "编辑"
