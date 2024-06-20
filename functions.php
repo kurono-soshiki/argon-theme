@@ -53,6 +53,9 @@ function argon_locate_filter($locate){
 	if (substr($locate, 0, 2) == 'ru'){
 		return 'ru_RU';
 	}
+	if (substr($locate, 0, 2) == 'ja'){
+		return 'ja';
+	}
 	return 'en_US';
 }
 function argon_get_locate(){
