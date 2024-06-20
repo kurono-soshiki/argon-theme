@@ -1,23 +1,23 @@
-name: 功能请求 / Feature Request
-description: 提议新功能 / Suggest a feature
-title: "[Feature Request] 在此输入标题"
+name: 機能リクエスト
+description: 新しいFeatureを提案する
+title: "[Feature Request] ここにタイトルを入力してください"
 labels: [enhancement]
 body:
   - type: markdown
     attributes:
       value: |
-        在提交 Issue 之前，请确保：
-        + 先前不存在相同的 Issue
-        + 该功能和主题有关
+        問題を送信する前に、次のことを確認してください。
+        + 同じ問題は以前には存在しませんでした
+        + この機能はテーマに関連しています
   - type: textarea
     id: description
     attributes:
-      label: 功能描述
-      description: 描述新功能及其作用
+      label: 機能説明
+      description: 新しい機能とその機能について説明する
     validations:
       required: true
   - type: textarea
     id: other
     attributes:
-      label: 附加说明
-      description: 在此添加附加说明。
+      label: 追加情報
+      description: ここに追加の説明を追加します。
