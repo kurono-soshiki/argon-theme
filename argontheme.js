@@ -211,7 +211,7 @@ translation['zh_TW'] = {
 	"全屏": "全屏",
 	"退出全屏": "退出全屏"
 };
-translation['ja_JP'] = {
+translation['ja'] = {
 	"确定": "OK",
 	"清除": "Clear",
 	"恢复博客默认": "Set To Default",
